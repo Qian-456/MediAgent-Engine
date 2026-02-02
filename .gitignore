@@ -10,8 +10,7 @@ venv/
 
 # Project specific
 models/
-data/raw/
-data/processed/
+
 *.log
 .vscode/
 .idea/
