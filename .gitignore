@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Project specific
+models/
+data/raw/
+data/processed/
+*.log
+.vscode/
+.idea/
+
+# Large files
+*.bin
+*.pt
+*.safetensors
+*.pth
